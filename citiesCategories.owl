@@ -1,0 +1,301 @@
+Prefix: : <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCity#>
+Prefix: dc: <http://purl.org/dc/elements/1.1/>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+
+Ontology: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCity>
+
+
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/untitled-ontology-4#Population_origin_/_Ethnic_groups>
+
+    SubClassOf: 
+        Demographics
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCity#Research/High_tech_centers>
+
+    SubClassOf: 
+        Economy
+    
+    
+Class: Accent
+
+    SubClassOf: 
+        Language
+    
+    
+Class: Air
+
+    SubClassOf: 
+        Transport
+    
+    
+Class: Architecture
+
+    SubClassOf: 
+        Urban_structure
+    
+    
+Class: Art
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Cinema
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Climate
+
+    SubClassOf: 
+        Geography
+    
+    
+Class: Contemporary
+
+    SubClassOf: 
+        History
+    
+    
+Class: Cuisine
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Cultural_events
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Culture
+
+    
+Class: Demographics
+
+    
+Class: Districts
+
+    SubClassOf: 
+        Geography
+    
+    
+Class: Early_history
+
+    SubClassOf: 
+        History
+    
+    
+Class: Early_modern
+
+    SubClassOf: 
+        History
+    
+    
+Class: Economy
+
+    
+Class: Education
+
+    SubClassOf: 
+        owl:Thing
+    
+    
+Class: Environment
+
+    SubClassOf: 
+        Geography
+    
+    
+Class: Etymology
+
+    
+Class: Events
+
+    SubClassOf: 
+        Sports
+    
+    
+Class: Fashion
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Fictional
+
+    SubClassOf: 
+        Notable_people
+    
+    
+Class: Geography
+
+    
+Class: Goods
+
+    SubClassOf: 
+        Economy
+    
+    
+Class: History
+
+    
+Class: Housing
+
+    SubClassOf: 
+        Urban_structure
+    
+    
+Class: International_relations
+
+    
+Class: Language
+
+    SubClassOf: 
+        Demographics
+    
+    
+Class: Late_modern
+
+    SubClassOf: 
+        History
+    
+    
+Class: Literature
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Location
+
+    SubClassOf: 
+        Geography
+    
+    
+Class: Middle_Ages
+
+    SubClassOf: 
+        History
+    
+    
+Class: Museums
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Music
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Notable_people
+
+    
+Class: Other
+
+    SubClassOf: 
+        Transport
+    
+    
+Class: Population
+
+    SubClassOf: 
+        Demographics
+    
+    
+Class: Rail
+
+    SubClassOf: 
+        Transport
+    
+    
+Class: Real
+
+    SubClassOf: 
+        Notable_people
+    
+    
+Class: Recreational_spaces
+
+    SubClassOf: 
+        Urban_structure
+    
+    
+Class: Religion
+
+    SubClassOf: 
+        Demographics
+    
+    
+Class: Road
+
+    SubClassOf: 
+        Transport
+    
+    
+Class: Services
+
+    SubClassOf: 
+        Economy
+    
+    
+Class: Sights
+
+    
+Class: Sports
+
+    
+Class: Theatre
+
+    SubClassOf: 
+        Culture
+    
+    
+Class: Topography
+
+    SubClassOf: 
+        Geography
+    
+    
+Class: Tourism_industry
+
+    SubClassOf: 
+        Economy
+    
+    
+Class: Transport
+
+    
+Class: Underground
+
+    SubClassOf: 
+        Transport
+    
+    
+Class: Urban_problems
+
+    
+Class: Urban_structure
+
+    
+Class: Water
+
+    SubClassOf: 
+        Transport
+    
+    
+Class: owl:Thing
+
+    

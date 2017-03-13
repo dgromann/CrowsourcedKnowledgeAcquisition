@@ -1,0 +1,62 @@
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+
+Ontology: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents>
+
+
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Climate>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Culture>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Demographics>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Ethnology>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Etymology>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Fauna>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Flora>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Geography>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Geology>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#History>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Languages>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Religion>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocContinents#Sport>
+
+    

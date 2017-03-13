@@ -1,0 +1,203 @@
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+
+Ontology: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries>
+
+
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Agriculture>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Economy>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Architecture>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Culture>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Art>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Culture>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Biodiversity>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Cinema>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Culture>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Climate>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Colonies>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Politics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Culture>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Demographics>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Economy>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Education>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Demographics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Energy>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Economy>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Ethnic_groups>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Demographics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Etymology>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Food>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Culture>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Foreign_relations>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Politics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Geography>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Governance>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Politics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Health>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Demographics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#History>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Landscape>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Language>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Demographics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Literature>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Culture>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Military>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Politics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Music>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Culture>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Political_divisions>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Politics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Politics>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Prehistory>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#History>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Religion>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Demographics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Science_and_technology>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Economy>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Sociopolitical_issues>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Politics>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Sports>
+
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Topography>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Geography>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Tourism>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Economy>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Transport>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Economy>
+    
+    
+Class: <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Water_supply_and_sanitation>
+
+    SubClassOf: 
+        <http://www.semanticweb.org/francis/ontologies/2016/4/wikiTocCountries#Economy>
+    
+    
